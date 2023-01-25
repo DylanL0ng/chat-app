@@ -1,18 +1,17 @@
-# chat-app
+# Chat App
 
-This App is still being worked on, It's a project as part of an online course.
-I am still very new to Javascript and Firebase but It's very fun and enjoyable.
+This is a work in progress chat application, developed as part of an online course to learn JavaScript and Firebase.
 
 ## Built With
 
-* [Firebase / Firestore](https://firebase.google.com/) - The Database used
-* [Bootstrap 4](https://getbootstrap.com/) - CSS Framework
-* [ParticlesJS](https://github.com/VincentGarreau/particles.js/) - The background particles
+- [Firebase / Firestore](https://firebase.google.com/) - The Database used
+- [Bootstrap 4](https://getbootstrap.com/) - CSS Framework
+- [ParticlesJS](https://github.com/VincentGarreau/particles.js/) - The background particles
 
 ## Acknowledgments
 
-* This was built as a project for a javascript course I am currently doing with some tweaks
+- This project was built as part of an online course on JavaScript and Firebase, with some personal tweaks.
 
-## Try me out!
+## Try it out!
 
-* [Demo](https://dylanl0ng.github.io/chat-app/)
+- [Demo](https://dylanl0ng.github.io/chat-app/)
